@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to Paisr ⚡
+
+We are a technology company rooted in the heart of Paramaribo, Suriname.
+
+Our mission is simple and straight forward. Payments for the Caribbean. Some say the Stripe or Wise of the region.
+
+<br/>
+
+👋🏾
 
 <!--
 
