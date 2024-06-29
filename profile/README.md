@@ -1,5 +1,3 @@
-[![Logo](https://paisr.tech/favicon.ico)](https://paisr.tech)
-
 ## Welcome to Paisr ⚡
 
 We are a pioneering technology company rooted in the heart of Paramaribo, Suriname, dedicated to transforming the payment landscape of the Caribbean. Our mission is to empower individuals and businesses with seamless, secure, and efficient payment solutions that cater to the unique needs of the region.
