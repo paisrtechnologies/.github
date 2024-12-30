@@ -1,3 +1,5 @@
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1csp4.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 ## Welcome to Paisr ⚡
 
 We are a pioneering technology company rooted in the heart of Paramaribo, Suriname, dedicated to transforming the payment landscape of the Caribbean. Our mission is to empower individuals and businesses with seamless, secure, and efficient payment solutions that cater to the unique needs of the region.
